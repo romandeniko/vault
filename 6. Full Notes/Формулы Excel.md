@@ -76,5 +76,15 @@ links:
 
 **Добавление значения в случае ошибки**
 
-
 =IFERROR(формула, которая может давать ошибку; ответ, чтобы показывать его при ошибке)
+
+**Импорт данных из другой таблицы**
+
+=IMPORTRANGE("https://docs.google.com/spreadsheets/d/1zgcwNe7gB7sOlXGqzNBYh_IQtQZGEWA3OZmVUoLdTPA/edit?usp=sharing";"List!A:B")
+
+**Ввод SQL-запросов**
+
+=QUERY(A1:C5;"select A, B where B > 2000")
+=QUERY(Import!A1:F369;"select A, B, C, E where F='Парикмахер'")
+=QUERY(A1:C5;"select A, B where B > 2000 and A = 'Макар'") 
+=QUERY(Import!A:F;"SELECT A,B,C,E WHERE F = 'Администрация' AND E>3 AND E<7")
