@@ -1,0 +1,4 @@
+- [ ] The value of others
+- [ ] https://t-j.ru/use-of-finance-books/
+- [ ] https://t-j.ru/10-books-for-financial-management/
+- [ ] 
