@@ -67,7 +67,13 @@ FROM
 ORDER BY name_city ASC, Дата DESC;
 ```
 
+```sql
+INSERT INTO buy_step (buy_id, step_id, date_step_beg, date_step_end)
+SELECT buy_id, step_id, NULL, NULL
+FROM (SELECT * FROM buy CROSS JOIN step WHERE buy_id = 5) interm;
 
+SELECT * FROM buy_step;
+```
 
 
 
