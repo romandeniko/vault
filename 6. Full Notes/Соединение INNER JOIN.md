@@ -73,6 +73,11 @@ FROM
 WHERE book.title IS NULL;
 ```
 
+```sql
+SELECT FamilyMembers.* FROM Payments
+INNER JOIN FamilyMembers
+    ON Payments.family_member = FamilyMembers.member_id
+```
 
 
 
