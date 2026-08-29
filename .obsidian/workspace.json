@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ed85181e75b3829d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e58eddf53972af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6fe3adf2c512f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Full Notes/Процесс разработки требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Процесс разработки требований"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6de5a48aacf98e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbbba3ed453106e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995a7c0113263cf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8928ccb5c9db2e0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "статист",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d85816f2c102532",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93142ebe35d90f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "36852937d0f2d6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "773f06f0bd89c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Full Notes/Характеристика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Характеристика"
+            }
+          },
+          {
+            "id": "80ded505432d5a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Full Notes/Характеристика.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Характеристика"
+            }
+          },
+          {
+            "id": "55fa32c90b2833c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ea4c7b3bfad9841",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "37bc3d790d91c050",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Full Notes/Характеристика.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Характеристика"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9b6fe3adf2c512f4",
+  "lastOpenFiles": [
+    "5. Tags/Разработка требований.md",
+    "4. Indices/Системная аналитика.md",
+    "5. Tags/Жизненный цикл ПО.md",
+    "6. Full Notes/Анализ требований.md",
+    "6. Full Notes/Процесс разработки.md",
+    "5. Tags/Жизненный цикл ИС.md",
+    "6. Full Notes/Стадии ЖЦ ИС.md",
+    "4. Indices/Информационные системы.md",
+    "4. Indices/Сети и телекоммуникации.md",
+    "7. Images/Модели жизненного цикла ПО.md",
+    "Жизненный цикл ПО (ИС).md",
+    "6. Full Notes/Этапы жизненного цикла ПО.md",
+    "6. Full Notes/Модель ЖЦ ИС.md",
+    "5. Tags/Архитектура ИС.md",
+    "6. Full Notes/Системный подход.md",
+    "6. Full Notes/Понятие системы.md",
+    "6. Full Notes/Методы системного анализа.md",
+    "6. Full Notes/SWOT-анализ.md",
+    "5. Tags/Управление бизнес-процессами.md",
+    "6. Full Notes/Роль системного аналитика.md",
+    "6. Full Notes/BPMN.md",
+    "6. Full Notes/Определение ИС, виды обеспечения ИС, классификация ИС.md",
+    "5. Tags/Общие сведения об ИС.md",
+    "6. Full Notes/Сетевой адрес.md",
+    "6. Full Notes/Адреса в стеке TCP_IP.md",
+    "5. Tags/TCP_IP.md",
+    "7. Images/Pasted image 20260710155442.png",
+    "7. Images/Pasted image 20260625230051.png",
+    "Untitled.base",
+    "7. Images/Pasted image 20260512222925.png",
+    "7. Images/Pasted image 20260512222528.png",
+    "7. Images/Pasted image 20260506131936.png",
+    "7. Images/Pasted image 20260506124259.png",
+    "7. Images/Pasted image 20260506124229.png",
+    "7. Images/Pasted image 20260505123054.png",
+    "7. Images/Pasted image 20260505122452.png",
+    "7. Images/Pasted image 20260505121821.png"
+  ]
+}
